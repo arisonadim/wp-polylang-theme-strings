@@ -41,7 +41,7 @@
             }
         }
 
-        public function Uninstall()
+        public static function Uninstall()
         {
             global $wpdb;
 
